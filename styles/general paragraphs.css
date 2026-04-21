@@ -1,0 +1,13 @@
+ p {
+        font-family: Roboto, arial;
+    }
+
+body {
+        margin: 0;
+        padding-top: 70px;
+        padding-left: 70px;
+    }
+.sidebar-text{
+    font-family: Roboto, Arial;
+    font-size: 9px;
+}
